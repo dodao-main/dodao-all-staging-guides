@@ -1,7 +1,7 @@
 categories:
   - setup
 content: Explains how to create a DAO on Astro
-created: '2022-10-12T00:26:35.246Z'
+created: '2022-10-12T00:26:54.596Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -14,9 +14,9 @@ steps:
 
       <div align="center">
 
-      <img src="" /
-      alt="https://raw.githubusercontent.com/DoDAO-io/dodao-daocubator-guides/main/images/guide_signup_on_astro/Create_New_DAO.jpg"
-      />
+      <img
+      src="https://raw.githubusercontent.com/DoDAO-io/dodao-daocubator-guides/main/images/guide_signup_on_astro/Create_New_DAO.jpg"
+      alt="Create New DAO" />
 
       </div>        
     name: Introduction
