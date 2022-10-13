@@ -1,7 +1,7 @@
 categories:
   - setup
 content: Explains how to create a DAO on Astro
-created: '2022-10-13T06:40:07.509Z'
+created: '2022-10-13T06:41:15.956Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -127,7 +127,7 @@ steps:
         uuid: e9c4c842-6a42-4b02-8ff5-7036dc7c98d1
     uuid: 15fe5388-b787-472e-9175-9d78af678998
   - content: >-
-      ## **Setting Up DAOcubator University on Astro.**
+      ## **Setting Up DAOCubator University on Astro.**
 
 
       Astro is a tool for setting up and managing DAOs on the NEAR Blockchain.
