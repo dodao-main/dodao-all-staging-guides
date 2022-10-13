@@ -1,7 +1,7 @@
 categories:
   - setup
 content: Explains how to create a DAO on Astro
-created: '2022-10-13T06:27:58.539Z'
+created: '2022-10-13T06:40:07.509Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -164,7 +164,7 @@ steps:
       <div align="center">
 
       <img
-      src="https://github.com/DoDAO-io/dodao-daocubator-guides/blob/main/images/guide_signup_on_astro/Create_New_DAO.jpg"
+      src="https://raw.githubusercontent.com/DoDAO-io/dodao-daocubator-guides/main/images/guide_signup_on_astro/Create_New_DAO.jpg"
       alt="Create New DAO"/>
 
       </div>
@@ -177,7 +177,7 @@ steps:
       <div align="center">
 
       <img
-      src="https://github.com/DoDAO-io/dodao-daocubator-guides/blob/main/images/guide_signup_on_astro/DAO_Name_and_Purpose_new.jpg"
+      src="https://raw.githubusercontent.com/DoDAO-io/dodao-daocubator-guides/main/images/guide_signup_on_astro/DAO_Name_and_Purpose_new.jpg"
       alt="DAO Name and Purpose" />
 
       </div>
@@ -189,7 +189,7 @@ steps:
       <div align="center">
 
       <img
-      src="https://github.com/DoDAO-io/dodao-daocubator-guides/blob/main/images/guide_signup_on_astro/KYC.jpg"
+      src="https://raw.githubusercontent.com/DoDAO-io/dodao-daocubator-guides/main/images/guide_signup_on_astro/KYC.jpg"
       alt="DAO KYC" />
 
       </div>
@@ -201,7 +201,7 @@ steps:
       <div align="center">
 
       <img
-      src="https://github.com/DoDAO-io/dodao-daocubator-guides/blob/main/images/guide_signup_on_astro/Links_and_Socials.jpg"
+      src="https://raw.githubusercontent.com/DoDAO-io/dodao-daocubator-guides/main/images/guide_signup_on_astro/Links_and_Socials.jpg"
       alt="DAO Links and Socials" />
 
       </div>
@@ -213,7 +213,7 @@ steps:
       <div align="center">
 
       <img
-      src="https://github.com/DoDAO-io/dodao-daocubator-guides/blob/main/images/guide_signup_on_astro/add_groups.jpg"
+      src="https://raw.githubusercontent.com/DoDAO-io/dodao-daocubator-guides/main/images/guide_signup_on_astro/add_groups.jpg"
       alt="DAO Groups" />
 
       </div>
@@ -224,8 +224,8 @@ steps:
       <div align="center">
 
       <img
-      src="https://github.com/DoDAO-io/dodao-daocubator-guides/blob/main/images/guide_signup_on_astro/add_members.jpg"
-      alt="DAO Groups" />
+      src="https://raw.githubusercontent.com/DoDAO-io/dodao-daocubator-guides/main/images/guide_signup_on_astro/add_members.jpg"
+      alt="DAO Members" />
 
       </div>
 
@@ -241,7 +241,7 @@ steps:
       <div align="center">
 
       <img
-      src="https://github.com/DoDAO-io/dodao-daocubator-guides/blob/main/images/guide_signup_on_astro/Proposal_Creation.jpg"
+      src="https://raw.githubusercontent.com/DoDAO-io/dodao-daocubator-guides/main/images/guide_signup_on_astro/Proposal_Creation.jpg"
       alt="Proposal Creation" />
 
       </div>
@@ -252,7 +252,7 @@ steps:
       <div align="center">
 
       <img
-      src="https://github.com/DoDAO-io/dodao-daocubator-guides/blob/main/images/guide_signup_on_astro/Voting_Permissions.jpg"
+      src="https://raw.githubusercontent.com/DoDAO-io/dodao-daocubator-guides/main/images/guide_signup_on_astro/Voting_Permissions.jpg"
       alt="Voting Permissions" />
 
       </div>
@@ -264,7 +264,7 @@ steps:
       <div align="center">
 
       <img
-      src="https://github.com/DoDAO-io/dodao-daocubator-guides/blob/main/images/guide_signup_on_astro/create_DAO_Assets.jpg"
+      src="https://raw.githubusercontent.com/DoDAO-io/dodao-daocubator-guides/main/images/guide_signup_on_astro/create_DAO_Assets.jpg"
       alt="Create DAO Assets" />
 
       </div>
@@ -315,7 +315,7 @@ steps:
       <div align="center">
 
       <img
-      src="https://github.com/DoDAO-io/dodao-daocubator-guides/blob/main/images/guide_signup_on_astro/core_features.jpg"
+      src="https://raw.githubusercontent.com/DoDAO-io/dodao-daocubator-guides/main/images/guide_signup_on_astro/core_features.jpg"
       alt="Core features on Astro" />
 
       </div>
