@@ -1,7 +1,7 @@
 categories:
   - setup
 content: Explains how to create a DAO on Astro
-created: '2022-10-13T06:25:26.714Z'
+created: '2022-10-13T06:25:53.550Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -59,16 +59,6 @@ steps:
       vote on proposals, manage treasury, verify participants, and much more.
       Built on NEAR, Astro also takes away the pain of high gas fees in the
       management of the DAO.
-
-
-
-      <div align="center">
-
-      <img
-      src="https://raw.githubusercontent.com/DoDAO-io/dodao-daocubator-guides/main/images/guide_signup_on_astro/Create_New_DAO.jpg"
-      alt="Create New DAO" />
-
-      </div>        
     name: Introduction
     stepItems: []
     uuid: 878b38e1-6538-4d34-bab9-74df92741945
