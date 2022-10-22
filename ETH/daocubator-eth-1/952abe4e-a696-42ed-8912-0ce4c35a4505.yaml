@@ -1,6 +1,6 @@
 categories: []
 content: This guide explains the Council governance structure of DAOs
-created: '2022-10-22T12:45:15.281Z'
+created: '2022-10-22T12:47:19.986Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -279,12 +279,12 @@ steps:
       #### **Requirements**
 
 
-      The Council is open to anyone applying, however, anyone interested in
+      * The Council is open to anyone applying, however, anyone interested in
       being a part of the Council must be deeply involved in the NEAR ecosystem
       in terms of contributing to the growth of the ecosystem. 
 
 
-      The ideal person should have an understanding of the trends, players,
+      * The ideal person should have an understanding of the trends, players,
       risks, and opportunists in the ecosystem to be able to assess proposals.
 
 
@@ -373,10 +373,10 @@ steps:
       #### **Requirements**
 
 
-      The requirement for being a Spartan Council is to first be a member of the
-      Synthetix community, then nominate yourself for the role and stand in for
-      the election. Any member of the community who is then voted as part of the
-      top seven in the election becomes a member of the Spartan Council.
+      * The requirement for being a Spartan Council is to first be a member of
+      the Synthetix community, then nominate yourself for the role and stand in
+      for the election. Any member of the community who is then voted as part of
+      the top seven in the election becomes a member of the Spartan Council.
 
 
       ### **Index Coop Council**
