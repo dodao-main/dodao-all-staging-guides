@@ -1,6 +1,6 @@
 categories: []
 content: This guide shows you ow to create custom function calls on Astro
-created: '2022-10-30T08:15:42.272Z'
+created: '2022-10-30T08:17:33.093Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -171,7 +171,6 @@ steps:
       writing the following code snippet:
 
               **For Approval:**
-              ```
               {
 
               "id": proposalId,
@@ -179,10 +178,8 @@ steps:
               "action": "VoteApprove"
 
               }
-              ```
 
               **For Rejection:**
-              ```
               {
 
               "id": proposalId,
@@ -190,7 +187,7 @@ steps:
               "action": "VoteReject"
 
               }
-              ```
+
       In this case, we will approve the proposal
 
       <div align="center">
@@ -345,27 +342,22 @@ steps:
       writing the following code snippet:
 
               **For Approval:**
-              ```
               {
 
-              "id": proposalid,
+              "id": proposalId,
 
               "action": "VoteApprove"
 
               }
-              ```
 
               **For Rejection:**
-              ```
               {
 
-              "id": proposalid,
+              "id": proposalId,
 
               "action": "VoteReject"
 
               }
-
-              ```
 
       <div align="center">
 
