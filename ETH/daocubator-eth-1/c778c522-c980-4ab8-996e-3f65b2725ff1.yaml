@@ -1,6 +1,6 @@
 categories: []
 content: A guide on the voting strategies for DAOs
-created: '2022-11-22T12:38:30.087Z'
+created: '2022-11-22T12:59:38.496Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -796,7 +796,7 @@ steps:
       processes simple and accessible to everyone within their communities. On
       Tally, each member gets one vote so it solves the problem of whales having
       more influence due to the number of tokens they own.
-    name: Step 7
+    name: Voting Tools in DAOs
     stepItems: []
     uuid: 40873d18-02d4-4c8b-a739-1d782838fd3e
   - content: ''
@@ -832,11 +832,11 @@ steps:
         uuid: 4325e0dc-ba75-4ad7-af8f-c629cbfd6047
     uuid: ba1a92e5-9a57-4c19-8b8a-57cd7f21abeb
   - content: >-
-      ## **Conclusion**
+      ## **Conclusion and References**
 
 
-      As we have learnt in the course of this guide, voting is an important part
-      of any DAO since it is how progress is made. There are a lot of
+      As we have learned in the course of this guide, voting is an important
+      part of any DAO since it is how progress is made. There are a lot of
       improvements going on with the DAOs vote and what strategies they apply.
       It is important to note that all the strategies will not work for every
       DAO so what can be done is to test different strategies at different
@@ -847,7 +847,42 @@ steps:
       decided to stick with one strategy. It calls for innovation and localizing
       the strategy to your DAO type and function to derive maximum utility for
       the process.
-    name: Conclusion
+
+
+      Kindly see the links to all the articles used in this guide below for
+      further study:
+
+
+      *
+      [https://medium.com/votingdao/importance-of-dao-voting-system-and-latest-development-b0a620801f68](https://medium.com/votingdao/importance-of-dao-voting-system-and-latest-development-b0a620801f68)
+
+      *
+      [https://limechain.tech/blog/dao-voting-mechanisms-explained-2022-guide/](https://limechain.tech/blog/dao-voting-mechanisms-explained-2022-guide/)
+
+      *
+      [https://www.code2.io/blog/web3-dao-voting-mechanisms/](https://www.code2.io/blog/web3-dao-voting-mechanisms/)
+
+      *
+      [https://blog.tally.xyz/a-simple-guide-to-quadratic-voting-327b52addde1](https://blog.tally.xyz/a-simple-guide-to-quadratic-voting-327b52addde1)
+
+      *
+      [https://vitalik.ca/general/2019/12/07/quadratic.html](https://vitalik.ca/general/2019/12/07/quadratic.html)
+
+      *
+      [https://medium.com/giveth/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475](https://medium.com/giveth/conviction-voting-a-novel-continuous-decision-making-alternative-to-governance-aa746cfb9475)
+
+      *
+      [https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c](https://medium.com/daostack/holographic-consensus-part-1-116a73ba1e1c)
+
+      *
+      [https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3](https://medium.com/daostack/voting-options-in-daos-b86e5c69a3e3)
+
+      *
+      [https://medium.com/element-finance/voting-vaults-a-new-defi-and-governance-primitive-b4b2f6289d48](https://medium.com/element-finance/voting-vaults-a-new-defi-and-governance-primitive-b4b2f6289d48)
+
+      *
+      [https://www.lifespan.io/topic/finding-a-dao-voting-protocol-fit-for-purpose/](https://www.lifespan.io/topic/finding-a-dao-voting-protocol-fit-for-purpose/)
+    name: Conclusion and References
     stepItems: []
     uuid: 0f3ca177-f117-46d4-ab44-30f72bd2cf51
 thumbnail: >-
