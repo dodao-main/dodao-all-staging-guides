@@ -1,6 +1,6 @@
 categories: []
 content: A guide on the voting strategies for DAOs
-created: '2022-11-22T13:24:45.845Z'
+created: '2022-11-22T13:26:09.238Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -776,7 +776,7 @@ steps:
         uuid: 4325e0dc-ba75-4ad7-af8f-c629cbfd6047
     uuid: ba1a92e5-9a57-4c19-8b8a-57cd7f21abeb
   - content: >-
-      ## **Conclusion and References**
+      ## **Conclusion**
 
 
       As we have learned in the course of this guide, voting is an important
@@ -792,6 +792,8 @@ steps:
       the strategy to your DAO type and function to derive maximum utility for
       the process.
 
+
+      ## **References**
 
       Kindly see the links to all the articles used in this guide below for
       further study:
