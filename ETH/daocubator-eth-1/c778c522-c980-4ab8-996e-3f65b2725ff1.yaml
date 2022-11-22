@@ -1,6 +1,6 @@
 categories: []
 content: A guide on the voting strategies for DAOs
-created: '2022-11-22T13:13:15.647Z'
+created: '2022-11-22T13:17:59.089Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -435,12 +435,10 @@ steps:
          <td>
       <ul>
 
-
       <li> Token-based voting has its strength in the fact that everyone gets a
       say in the process of voting on proposals.
 
       <ul>
-
 
       <li>The process is very clear and straightforward.
 
@@ -455,18 +453,15 @@ steps:
          <td>
       <ul>
 
-
       <li>This process takes a lot of time since community members need to vote
       on every proposal in the DAO.
 
       <ul>
 
-
       <li>It also gives room for voter apathy as many people may be tired of
       continuously voting on all proposals.
 
       <ul>
-
 
       <li>Finally, people with large amounts of tokens may take over the process
       since the number of tokens determines the number of votes so people with
@@ -492,12 +487,10 @@ steps:
          <td>
       <ul>
 
-
       <li>Quadratic voting is a much better way to give people in the minority
       who hold less number of tokens to get their voices heard.
 
       <ul>
-
 
       <li>The community is represented in the outcome of the voting process
 
@@ -511,7 +504,6 @@ steps:
          </td>
          <td>
       <ul>
-
 
       <li>There is a need for a proof of identity system to ensure that there
       are no fake voters since those can be added to unfairly influence the
@@ -528,12 +520,10 @@ steps:
          <td>
       <ul>
 
-
       <li>DAOs can have a say in the proposals developed by other DAOs whose
       tokens they hold.
 
       <ul>
-
 
       <li>DAOs are involved in the development of other DAOs they are involved
       in
@@ -549,12 +539,10 @@ steps:
          <td>
       <ul>
 
-
       <li>DAOs may forget to vote on proposals since they have their own
       internal proposals as well.
 
       <ul>
-
 
       <li>The DAO may not be able to come to a consensus on which position to
       vote for since there are a lot of people voting on external proposals.
@@ -574,7 +562,6 @@ steps:
          <td>
       <ul>
 
-
       <li>Voting is faster where there are councils since they are smaller in
       number and there is a quorum required for voting to be completed.
 
@@ -584,7 +571,6 @@ steps:
          </td>
          <td>
       <ul>
-
 
       <li>Since the votes are from a select few, the decisions made may not
       always be the reflection of the community and this may leave people
@@ -601,7 +587,6 @@ steps:
          <td>
       <ul>
 
-
       <li>Since the voting here is not time-based but a continuous process, the
       voting process reflects what the DAO’s core belief is so there is no need
       for a majority vote.
@@ -612,7 +597,6 @@ steps:
          </td>
          <td>
       <ul>
-
 
       <li>This process takes a lot of time to reach a verdict so it may not be
       helpful for DAOs who need to take time-based decisions.
@@ -628,9 +612,7 @@ steps:
          <td>
       <ul>
 
-
       <li>Allows for easy scaling of the DAO governance processes.
-
 
       <li>Creates a balance in power within the DAO
 
@@ -640,7 +622,6 @@ steps:
          </td>
          <td>
       <ul>
-
 
       <li>This process can be expensive since it will require maintenance in the
       long term.
@@ -656,7 +637,6 @@ steps:
          <td>
       <ul>
 
-
       <li>As a very new approach, it can help to manage capital within the DAO
       and also give members the opportunity to believe in the DAO towards
       long-term growth.
@@ -667,7 +647,6 @@ steps:
          </td>
          <td>
       <ul>
-
 
       <li>Getting people to trust this process may be a challenge as it is quite
       new.
