@@ -1,6 +1,6 @@
 categories: []
 content: A guide on the voting strategies for DAOs
-created: '2022-11-22T12:36:10.913Z'
+created: '2022-11-22T12:38:30.087Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -675,33 +675,6 @@ steps:
       </li>
 
       </ul>
-         </td>
-        </tr>
-        <tr>
-         <td>Rage Quitting
-         </td>
-         <td>
-      <ul>
-
-
-      <li>Allows for minority votes to have a say rather than being hijacked by
-      majority votes.
-
-      </li>
-
-      </ul>
-         </td>
-         <td>
-      <ul>
-
-
-      <li> Decision-making takes a longer time due to the grace period for every
-      proposal.
-
-      </li>
-
-      </ul>
-         </td>
         </tr>
       </table>
     name: Pros and Cons
