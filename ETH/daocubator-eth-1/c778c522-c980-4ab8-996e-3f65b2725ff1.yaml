@@ -1,6 +1,6 @@
 categories: []
 content: A guide on the voting strategies for DAOs
-created: '2022-11-22T12:59:38.496Z'
+created: '2022-11-22T13:13:15.647Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -430,13 +430,13 @@ steps:
          </td>
         </tr>
         <tr>
-         <td>Token-Based Voting
+         <td> Token-Based Voting
          </td>
          <td>
       <ul>
 
 
-      <li>Token-based voting has its strength in the fact that everyone gets a
+      <li> Token-based voting has its strength in the fact that everyone gets a
       say in the process of voting on proposals.
 
       <ul>
@@ -469,9 +469,9 @@ steps:
 
 
       <li>Finally, people with large amounts of tokens may take over the process
-      since the number of tokens held determines the number of votes so people
-      with few tokens may not be able to influence any changes or sponsor a
-      proposal in the DAO.
+      since the number of tokens determines the number of votes so people with
+      few tokens may not be able to influence any changes or sponsor a proposal
+      in the DAO.
 
       </li>
 
@@ -675,6 +675,7 @@ steps:
       </li>
 
       </ul>
+         </td>
         </tr>
       </table>
     name: Pros and Cons
