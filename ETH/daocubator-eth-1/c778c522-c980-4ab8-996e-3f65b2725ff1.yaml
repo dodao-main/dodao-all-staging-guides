@@ -1,6 +1,6 @@
 categories: []
 content: A guide on the voting strategies for DAOs
-created: '2022-11-22T13:17:59.089Z'
+created: '2022-11-22T13:22:21.286Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
@@ -438,13 +438,7 @@ steps:
       <li> Token-based voting has its strength in the fact that everyone gets a
       say in the process of voting on proposals.
 
-      <ul>
-
       <li>The process is very clear and straightforward.
-
-      </li>
-
-      </ul>
 
       </li>
 
